@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Patients>
+    <Patient id="1">
+        <name>Mikhael</name>
+        <surName>Schummaher</surName>
+        <birthDate>19.11.1969</birthDate>
+        <healthy>true</healthy>
+    </Patient>
+    <Patient id="2">
+        <name>Bruce</name>
+        <surName>Lee</surName>
+        <birthDate>05.04.1947</birthDate>
+        <healthy>false</healthy>
+    </Patient>
+    <Patient id="3">
+        <name>Jim</name>
+        <surName>Kerry</surName>
+        <birthDate>23.09.1991</birthDate>
+        <healthy>true</healthy>
+    </Patient>
+</Patients>
